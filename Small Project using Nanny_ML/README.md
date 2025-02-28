@@ -19,8 +19,3 @@ The project is organized into two main sections:
 - NannyML for model monitoring
 - Data drift detection methods
 
-## Getting Started
-Clone this repository and follow the instructions in the notebook files. The project emphasizes the monitoring and maintenance phase of the ML lifecycle rather than the initial model development.
-
-## Note
-This project demonstrates an important but often overlooked aspect of the machine learning lifecycle - what happens after a model is deployed to production and how to monitor its ongoing performance.
